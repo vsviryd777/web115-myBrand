@@ -1,0 +1,32 @@
+head{
+  background-color: #ABD9FF;
+
+}
+h1{
+  color: #0AA1DD;
+  font-size: 100%;
+  margin: 50px auto 2 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2,h3{
+  color:#FFB200;
+font-size: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+p{
+
+}
+body{
+  margin: #C3F8FF;
+  font-family: 'Merriweather', serif;
+  color:black ;
+  text-align: left;
+  background-color: #E8F9FD;
+  font-size: 100%;
+  box-sizing: border-box;
+}
+footer{
+background-color: #ABD9FF;
+text-align: center;
+}
