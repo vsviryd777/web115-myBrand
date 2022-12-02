@@ -19,7 +19,8 @@ body
 {
   padding:20px;
 }
- .topmenu{
+ .topmenu
+{
    background-color:#68A7AD;
  }
  .topmenu ul
@@ -29,6 +30,7 @@ list-style: none;
 }
 .topmenu ul li
 {
+  display: inline-flex;
   width: 120px;
   margin: auto;
 }
